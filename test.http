@@ -1,0 +1,5 @@
+#GET localhost:8080/persons/by-city?city=Moscow
+
+#GET localhost:8080/persons/by-age?age=30
+
+GET localhost:8080/persons/by-name-surname?name=Alexey&surname=Ivanov
